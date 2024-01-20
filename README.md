@@ -1,2 +1,2 @@
-This is weather App that Shows Real time Weather Data.
+This is weather App that Shows date,time and real time weather data.
 # Weather-App
